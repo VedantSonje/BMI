@@ -1,0 +1,4 @@
+#Mon Jul 22 22:45:37 IST 2019
+base.0=A\:\\demo\\AndroindProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
